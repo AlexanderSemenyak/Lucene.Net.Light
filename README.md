@@ -1,3 +1,5 @@
+origin: https://github.com/mono/Lucene.Net.Light
+
 This is a subset of Lucene.Net as used by Mono's Monodoc tool.
 
 This module is a checout of:
